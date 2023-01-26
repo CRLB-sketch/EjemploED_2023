@@ -9,7 +9,7 @@
  * <p> Algoritmos Estructuras de datos - Universidad del Valle de Guatemala </p>
  * 
  * Creado por:
- * @author [Cristian Laynez, Rocío Palma]
+ * @author Cristian Laynez
  * @version 1.0
  * @since 2021-Enero-16
  **/    
@@ -147,8 +147,8 @@
          String info = "";
                          
          if(frecuence.equals("AM")){
-         double temp = stationsAM.get(number);
-         info += "Ahora estas en " + temp + " de AM";
+            double temp = stationsAM.get(number);
+            info += "Ahora estas en " + temp + " de AM";
          }
          else{ // Si es FM
              double temp = stationsFM.get(number);
