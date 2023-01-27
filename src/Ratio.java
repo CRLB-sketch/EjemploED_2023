@@ -12,6 +12,8 @@
  * @author Cristian Laynez
  * @version 1.0
  * @since 2021-Enero-16
+ * 
+ * ESTA CLASE ESTA POR FINES DIDACTICOS Y PARA DAR EJEMPLOS
  **/    
 
  import java.util.ArrayList;
